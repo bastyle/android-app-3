@@ -7,6 +7,12 @@
         <item>PEI</item>
         <item>Yukon</item>
     </array>
+    <array name="program_duration">
+        <item>2 Semesters</item>
+        <item>4 Semesters</item>
+        <item>6 Semesters</item>
+        <item>8 Semesters</item>
+    </array>
     <string-array name="Ontario_values">
         <item>100</item>
         <item>200</item>
